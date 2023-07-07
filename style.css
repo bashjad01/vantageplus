@@ -11,8 +11,8 @@
  
     /* Centers the icon inside the button element */
     display: flex;
-    align-items: center;
-    justify-content: center;
+    align-items: right;
+    justify-content: right;
  
     /* Sets the z-index to ensure the button is on top of other elements */
     z-index: 1;
